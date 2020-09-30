@@ -1,0 +1,30 @@
+{
+  "name": "rehmait",
+  "version": "1.0.0",
+  "description": "rehmait company website",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "nodemailer": "^6.4.11",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MidhaTahir/Rehma-IT-Solutions.git"
+  },
+  "keywords": [
+    "rehmaitsolutions"
+  ],
+  "author": "Midha Tahir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MidhaTahir/Rehma-IT-Solutions/issues"
+  },
+  "homepage": "https://github.com/MidhaTahir/Rehma-IT-Solutions#readme"
+}
